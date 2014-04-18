@@ -1,0 +1,18 @@
+body {
+	background-color: #000000;
+	background-image:  url("/images/congruent_pentagon.png");
+	background-position: left top;
+	border-radius: 0.5em;
+}
+.page-background {
+	background: none;
+}
+
+img {
+	width: 100%;
+}
+.last img {
+	height: 100%;
+	width: auto;
+}
+
